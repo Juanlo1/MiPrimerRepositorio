@@ -1,2 +1,2 @@
-<span style="color:red;">Mi Primer Repositorio</span><br>
+#Mi Primer Repositorio<br>
 **Este es un repositorio de prueba creado en GitHub.**
