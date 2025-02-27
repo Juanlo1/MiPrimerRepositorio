@@ -8,4 +8,3 @@ Estoy aprendiendo unos nuevos conocimientos para cambiar de disciplina.
 ![Perro que quisiera](/img/mastin_espanol2.jpg "Posible mascota")
 
 
-![Hormigas](/img/fo_hormigas_210.png "Hormigas")
